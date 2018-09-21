@@ -1,5 +1,8 @@
 _repo: Principles-of-Public-Health-A-Simple-Text-Book-on-Hygiene-Presenting-the-Principles-Fundament__53974
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53974-h/images/cover.jpg
 creator:
   author:
     agent_name: Tuttle, Thomas Dyer
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '47647'
     url: http://www.gutenberg.org/2009/agents/47647
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53974#Principles-of-Public-Health-A-Simple-Text-Book-on-Hygiene-Presenting-the-Principles-Fundament_
 gutenberg_issued: '2017-01-16'
 gutenberg_type: Text
 identifiers:
